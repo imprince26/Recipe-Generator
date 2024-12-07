@@ -45,7 +45,7 @@ const RecipeGenerator = () => {
     setLoading(true);
     try {
       const response = await fetch(
-        `https://api.spoonacular.com/recipes/${id}/information?apiKey=${API_KEY}`
+        `${import.meta.env.VITE_RECIPE_URL}/recipes/${id}/information?apiKey=${API_KEY}`
       );
       const data = await response.json();
       setSelectedRecipe(data);
