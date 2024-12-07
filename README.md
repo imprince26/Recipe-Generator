@@ -5,7 +5,11 @@
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![Lucide Icons](https://img.shields.io/badge/Lucide%20Icons-000000?style=flat-square&logo=lucide&logoColor=white)
 
-Welcome to the **Recipe Generator**! This web application allows users to search for delicious recipes based on various criteria such as recipe name, ingredients, or cuisine type. Built with **React** and **Vite**, this project provides a fast and responsive user experience. 
+Welcome to the **Recipe Generator**! This web application allows users to search for delicious recipes based on various criteria such as recipe name, ingredients, or cuisine type. Built with **React** and **Vite**, this project provides a fast and responsive user experience.
+
+## 🌐 Live Demo
+
+Check out the live version of the Recipe Generator: [Recipe Generator Live](https://recipe-generator-beige.vercel.app/)
 
 ## 🌟 Features
 
@@ -21,3 +25,4 @@ Welcome to the **Recipe Generator**! This web application allows users to search
 - **Vite**: A build tool that provides a fast development environment.
 - **Tailwind CSS**: A utility-first CSS framework for styling the application.
 - **Lucide Icons**: A collection of beautiful icons for React.
+
